@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Logica</string>
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="T">T</string>
+    <string name="F">F</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect!</string>
+    <string name="empty">Some fields are still empty!</string>
+    <string name="hint">Enter your guess</string>
+    <string name="submit">Submit</string>
+    <string name="conjuction">Conjuction (AND)</string>
+    <string name="AandB">A ^ B</string>
+</resources>
